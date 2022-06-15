@@ -47,3 +47,6 @@ body {
 .home {
   background-color: var(--background-color);
 }
+.home-title {
+  color: #5e6472;
+}
